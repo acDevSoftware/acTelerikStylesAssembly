@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <AssemblyName>Test</AssemblyName>
+  <AssemblyVersion>1.0.0.0</AssemblyVersion>
+  <OutputDirectory>.\Test</OutputDirectory>
+  <StylesFileNames>.\Test\Test_Ext1.zip</StylesFileNames>
+  <StylesFileNames>.\Test\Test_Ext2.zip</StylesFileNames>
+  <StylesFileNames>.\Test\Test.zip</StylesFileNames>
+  <TelerikWebUIPath></TelerikWebUIPath>
+</Settings>
